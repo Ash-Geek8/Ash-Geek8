@@ -1,72 +1,136 @@
-## Hi there 👋
+# Hi there, I'm Ash! 👋
 
-<h1 align="center"> Hi there, I am Ash <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
+<h1 align="center">Ashfaq Ahamed | AI Engineer</h1>
 
-A passionate AI and Machine Learning enthusiast driven by curiosity and innovation. I enjoy solving real-world problems through AI, computer vision, and data analytics.<br>💻My work spans projects in deep learning, computer vision, and NLP, including brain tumor detection, image enhancement, and text auto-correction.<br>📚 Lifelong learner excited about pushing the boundaries of AI research.<br>🌱 Let's connect and collaborate to build something impactful!<br><br>
+<p align="center">
+  <b>Building Practical AI Solutions | Generative AI | Agentic AI | Computer Vision</b>
+</p>
 
+<p align="center">
+  Turning ideas into intelligent, scalable, and meaningful applications.
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-raju/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@211501016) 
+### 👨‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+I'm an **AI Engineer** passionate about building intelligent applications that solve real-world problems. My work revolves around combining artificial intelligence, backend engineering, and modern application development to create solutions that are practical, reliable, and user-focused.
 
-# 💻 Github Stats:
-<table>
-  <tr>
-    <td align="center">
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Ashwin-ER&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <!-- GitHub Streak -->
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ashwin-ER" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Top Languages: Make it fit the cell edges -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-ER&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" 
-           alt="Top Languages" style="width:100%; max-width:100%;" />
-    </td>
-    <td align="center">
-      <!-- Top Contributed Repo -->
-      <img src="https://github-contributor-stats.vercel.app/api?username=Ashwin-ER&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-    </td>
-  </tr>
-</table>
+I enjoy working across the AI development lifecycle — from understanding a problem and exploring possible approaches to developing models, integrating AI capabilities, building APIs, and delivering functional applications.
 
-<h1 align="center">
-  <div align="center" style="margin-left: -20px;">
-    <img src="https://komarev.com/ghpvc/?username=Ashwin-ER&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin-ER" />
-  </div>
-</h1>
+My primary areas of interest and hands-on experience include:
 
+- **Generative AI & Agentic AI:** Building AI-powered applications, intelligent agents, and multi-agent workflows.
+- **Retrieval-Augmented Generation (RAG):** Developing context-aware AI systems using document retrieval, vector databases, and semantic search.
+- **MCP & AI Integrations:** Exploring Model Context Protocol, tool integrations, and agent communication.
+- **Computer Vision & Deep Learning:** Developing vision-based applications using OpenCV, MediaPipe, YOLO, and deep learning frameworks.
+- **Backend Engineering:** Building application backends, REST APIs, and AI integrations using Python and Flask.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+I believe good engineering is not just about implementing technology — it's about understanding the problem, choosing the right approach, and building something that genuinely works.
 
+🌱 Always learning, experimenting, and improving.
 
+🤝 Open to meaningful collaborations, challenging engineering problems, and opportunities to build impactful AI products.
 
+---
 
+### 🛠️ Technical Expertise
 
-<!--
-**Ash-Geek8/Ash-Geek8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programming & Backend Development**
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Generative AI & Intelligent Systems**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4EFF?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-444444?style=flat)
+![RAG](https://img.shields.io/badge/RAG-7952B3?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-0A7EA4?style=flat)
+
+**Machine Learning & Computer Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+**Databases & Data Processing**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**Tools & Development**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+A few areas where I enjoy applying my engineering skills:
+
+| Project | Description | Focus |
+|---|---|---|
+| **LegalIQ** | An AI-powered legal assistance application designed to retrieve and provide contextual information from legal documents and case references. | RAG, NLP, FAISS, OCR, Flask |
+| **PoseXplore** | A computer vision-based posture and range-of-motion analysis application for monitoring body movements and providing meaningful feedback. | MediaPipe, OpenCV, Flask, SQLite |
+| **FIOS AI Chatbot** | An intelligent conversational assistant integrating AI agents, knowledge retrieval, and backend tool interactions. | Agentic AI, RAG, MCP, Python |
+| **NINK48** | A real-time ambulance location tracking application designed around an accessible, lightweight web architecture. | Flask, Socket.IO, Real-time Systems |
+
+More projects and implementations are available in my repositories.
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ash-Geek8&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ash-Geek8&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ash-Geek8&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always interested in connecting with people who enjoy technology, engineering, and building meaningful solutions.
+
+Whether it's discussing an AI idea, exploring a technical challenge, collaborating on a project, or exchanging knowledge, feel free to reach out.
+
+<p align="left">
+  <a href="https://github.com/Ash-Geek8">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ashfaqahamed.ai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <!-- Add your LinkedIn profile URL here -->
+</p>
+
+---
+
+<p align="center">
+  <i>Building. Learning. Improving. One solution at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ash-Geek8&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
