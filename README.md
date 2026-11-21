@@ -90,7 +90,7 @@ A few areas where I enjoy applying my engineering skills:
 | **LegalIQ** | An AI-powered legal assistance application designed to retrieve and provide contextual information from legal documents and case references. | RAG, NLP, FAISS, OCR, Flask |
 | **PoseXplore** | A computer vision-based posture and range-of-motion analysis application for monitoring body movements and providing meaningful feedback. | MediaPipe, OpenCV, Flask, SQLite |
 | **FIOS AI Chatbot** | An intelligent conversational assistant integrating AI agents, knowledge retrieval, and backend tool interactions. | Agentic AI, RAG, MCP, Python |
-| **NINK48** | A real-time ambulance location tracking application designed around an accessible, lightweight web architecture. | Flask, Socket.IO, Real-time Systems |
+| **Algo Master** | An algorithm-focused application designed to strengthen problem-solving skills through structured algorithmic concepts, logical thinking, and practical implementations. | Python, Algorithms, Data Structures |
 
 More projects and implementations are available in my repositories.
 
@@ -122,7 +122,9 @@ Whether it's discussing an AI idea, exploring a technical challenge, collaborati
   <a href="mailto:ashfaqahamed.ai@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Add your LinkedIn profile URL here -->
+  <a href="https://www.linkedin.com/in/ashfaq-ahamed-a-034762232">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
