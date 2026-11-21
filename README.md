@@ -1,4 +1,4 @@
-# Hi there, I'm Ash! 👋
+# Hi there, I'm Ash! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px>
 
 <h1 align="center">Ashfaq Ahamed | AI Engineer</h1>
 
